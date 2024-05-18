@@ -1,2 +1,8 @@
-
+.box-model {
+    width: 300px;
+    background-color: #ADD8E6; /* Light blue background */
+    border: 15px solid #0000FF; /* Blue border */
+    padding: 50px;
+    margin: 20px;
+}
 /* Your CSS Code here. */
